@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20@%20rabelhmd-blue?style=for-the-badge&logo=linkedin&labelColor=blue)][linkedin] [![Twitter](https://img.shields.io/twitter/follow/rabelhmd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frabelhmdr&screen_name=rabelhmd)
 
-## I'm a passionate iOS Developer.
+## I'm a passionate Mobile Application Developer.
 
 - 🔭 I have launched several iOS Applications on [AppStore][appStore] for [Inversei.AI][appStore] 🔥
 - 🌱 I’m currently learning SwiftUI 😊
