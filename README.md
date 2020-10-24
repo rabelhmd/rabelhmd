@@ -24,6 +24,8 @@
 [<img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/ios.svg" />][iOS-Developer]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg" />][Java]
 [<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/android.svg" />][Android]
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg" />][C]
+[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg" />][C++]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][github]
 
 <br />
@@ -42,4 +44,6 @@
 [iOS-Developer]: https://developer.apple.com/ios
 [Java]: [https://docs.oracle.com/en/java/]
 [Android]: [https://developer.android.com/guide]
+[C]: [https://devdocs.io/c/]
+[C++]: [https://devdocs.io/cpp/]
 [github]: https://github.com/rabelhmd/rabelhmd
