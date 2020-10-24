@@ -17,6 +17,15 @@
 [<img align="left" alt="rabelhmd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rabelhmd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### Languages and Tools:
+
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />]
+
+<br />
+<br />
+
+---
+
 [inverseai]: https://www.inverseai.com
 [twitter]: https://twitter.com/rabelhmd
 [instagram]: https://instagram.com/rabelhmd
