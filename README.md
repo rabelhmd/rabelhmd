@@ -20,7 +20,7 @@
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/swift.svg" />][iOS-Swift]
 [<img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/ios.svg" />][iOS-Developer]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][github]
 
@@ -35,6 +35,7 @@
 [linkedin]: https://linkedin.com/in/rabelhmd
 [facebook]: https://www.facebook.com/rabelhmd
 [appStore]: https://apps.apple.com/us/developer/inverse-ai/id1451686644
-[inversei.AI]: https://www.inverseai.com/
+[inversei.AI]: https://www.inverseai.com
+[iOS-Swift]: https://developer.apple.com/swift
 [github]: https://github.com/rabelhmd/rabelhmd
 [iOS-Developer]: https://developer.apple.com/ios
