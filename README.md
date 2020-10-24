@@ -4,7 +4,7 @@
 
 ## I'm a passionate iOS Developer.
 
-- 🔭 I have recently launched several iOS Applications on [AppStore][appStore] for [Inversei.AI][appStore] 🔥
+- 🔭 I have launched several iOS Applications on [AppStore][appStore] for [Inversei.AI][appStore] 🔥
 - 🌱 I’m currently learning SwiftUI 😊
 - 👯 I’m looking to collaborate with other iOS developers.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
