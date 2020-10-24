@@ -20,7 +20,7 @@
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg"/>][github]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg"/>][github]
 
 <br />
@@ -36,3 +36,4 @@
 [appStore]: https://apps.apple.com/us/developer/inverse-ai/id1451686644
 [inversei.AI]: https://www.inverseai.com/
 [github]: https://github.com/rabelhmd/rabelhmd
+[iOS-Devloper]: https://developer.apple.com/ios/
