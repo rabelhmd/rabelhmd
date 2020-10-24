@@ -1,4 +1,4 @@
-### Hi there, I'm Rabel Ahmed - aka [rabelhmd][inverseai] 👋
+### Hi there, I'm Rabel Ahmed - aka [rabelhmd][facebook] 👋
 
 [![LinkedIn](https://img.shields.io/badge/Follow%20@%20rabelhmd-blue?style=for-the-badge&logo=linkedin&labelColor=blue)][linkedin] [![Twitter](https://img.shields.io/twitter/follow/rabelhmd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frabelhmdr&screen_name=rabelhmd)
 
