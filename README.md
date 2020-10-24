@@ -28,6 +28,7 @@
 [<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/android.svg" />][AndroidStudio]
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg" />][C]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg" />][C++]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg" />][Python]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][github]
 
 <br />
@@ -49,5 +50,6 @@
 [AndroidStudio]: https://developer.android.com/guide
 [Android]: https://developer.android.com/guide
 [C]: https://devdocs.io/c/
-[C++]: https://devdocs.io/cpp/
+[C++]: https://devdocs.io/cpp
+[Python]: https://docs.python.org/3/tutorial
 [github]: https://github.com/rabelhmd/rabelhmd
