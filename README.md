@@ -21,9 +21,11 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/swift.svg" />][iOS-Swift]
+[<img align="left" alt="Xcode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/xcode.svg" />][Xcode]
 [<img align="left" alt="iOS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/ios.svg" />][iOS-Developer]
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg" />][Java]
-[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/android.svg" />][Android]
+[<img align="left" alt="Android Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/androidstudio.svg" />][Android]
+[<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/android.svg" />][AndroidStudio]
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg" />][C]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg" />][C++]
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />][github]
@@ -41,9 +43,11 @@
 [appStore]: https://apps.apple.com/us/developer/inverse-ai/id1451686644
 [inversei.AI]: https://www.inverseai.com
 [iOS-Swift]: https://developer.apple.com/swift
+[Xcode]: https://developer.apple.com/xcode/ide
 [iOS-Developer]: https://developer.apple.com/ios
-[Java]: [https://docs.oracle.com/en/java/]
-[Android]: [https://developer.android.com/guide]
-[C]: [https://devdocs.io/c/]
-[C++]: [https://devdocs.io/cpp/]
+[Java]: https://docs.oracle.com/en/java/
+[AndroidStudio]: https://developer.android.com/guide
+[Android]: https://developer.android.com/guide
+[C]: https://devdocs.io/c/
+[C++]: https://devdocs.io/cpp/
 [github]: https://github.com/rabelhmd/rabelhmd
