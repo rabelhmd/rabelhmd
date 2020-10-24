@@ -33,8 +33,14 @@
 
 <br />
 
-
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="rabelhmd's GitHub Stats" src="https://github-readme-stats.rabelhmd.vercel.app/api?username=rabelhmd&show_icons=true&hide_border=true" />
+
+</details>
 
 [inverseai]: https://www.inverseai.com
 [twitter]: https://twitter.com/rabelhmd
