@@ -21,7 +21,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg" />]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/github.svg"/>][github]
 
 ---
 
@@ -32,3 +32,4 @@
 [facebook]: https://www.facebook.com/rabelhmd
 [appStore]: https://apps.apple.com/us/developer/inverse-ai/id1451686644
 [inversei.AI]: https://www.inverseai.com/
+[github]: https://github.com/rabelhmd/rabelhmd
