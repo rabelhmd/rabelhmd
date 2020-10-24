@@ -16,9 +16,6 @@
 [<img align="left" alt="rabelhmd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rabelhmd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
----
-
 [inverseai]: https://www.inverseai.com
 [twitter]: https://twitter.com/rabelhmd
 [instagram]: https://instagram.com/rabelhmd
