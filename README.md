@@ -11,7 +11,8 @@
 - ⚡ Fun fact: I love to  play football, doing  gym, reading books whilst drinking coffee! ☕
 
 ### Online Judges Platforms:
-[<img align="left" alt="rabel | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][leetcode]
+[<img align="left" alt="rabel | LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />][leetcode]
+<br />
 
 ### Connect with me:
 
