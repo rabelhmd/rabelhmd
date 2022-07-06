@@ -10,10 +10,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to  play football, doing  gym, reading books whilst drinking coffee! ☕
 
-### Online Judges Platforms:
-[<img align="left" alt="rabel | LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />][leetcode]
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="rabelhmd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -63,4 +59,3 @@
 [C++]: https://devdocs.io/cpp
 [Python]: https://docs.python.org/3/tutorial
 [github]: https://github.com/rabelhmd/rabelhmd
-[leetcode]: https://leetcode.com/rabel
