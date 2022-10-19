@@ -7,7 +7,7 @@
 - 🔭 I have launched several iOS Applications on [AppStore][appStore] for [Inversei.AI][appStore] 🔥
 - 🌱 I’m currently learning SwiftUI 😊
 - 👯 I’m looking to collaborate with other iOS developers.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to  play football, doing  gym, reading books whilst drinking coffee! ☕
 
 ### Connect with me:
